@@ -1,5 +1,5 @@
-# P2D
-P2D brinda una serie de herramientas para dibujar haciendo uso de figuras básicas, atributos, colores y otras opciones, haciendo uso de la librería Java2D.
+# PJ
+Serie de herramientas para dibujar haciendo uso de figuras básicas, atributos, colores y otras opciones.
 <center>
     <div style="display: flex; justify-content: center; gap: 20px;">
         <img src="https://github.com/user-attachments/assets/eb94e370-54a0-4314-9a27-329b84196cb4" alt="Imagen 1" width="850">
